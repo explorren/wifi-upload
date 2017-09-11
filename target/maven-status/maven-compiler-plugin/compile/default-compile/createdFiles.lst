@@ -1,0 +1,12 @@
+com\wiff\RunningApplication.class
+com\wiff\Service\Impl\MacInfoDBServiceImpl.class
+com\wiff\domain\MacInfo.class
+com\wiff\domain\BaseStationDB.class
+com\wiff\Service\BaseStationDBService.class
+com\wiff\Service\Impl\BaseStaionDBServiceImpl.class
+com\wiff\domain\MacInfoDB.class
+com\wiff\Repository\MacInfoDBRepository.class
+com\wiff\Service\MacInfoDBService.class
+com\wiff\Repository\BaseStaionDBRepository.class
+com\wiff\controller\ResultInfoController.class
+com\wiff\domain\BaseStation.class
